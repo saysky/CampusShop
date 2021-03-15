@@ -2,7 +2,8 @@
 预览地址：[http://campusshop.liuyanzhao.com](http://campusshop.liuyanzhao.com)  <br/>
 介绍地址：[https://liuyanzhao.com/shop/CampusShop.html](https://liuyanzhao.com/shop/CampusShop.html)  <br/>
 需要完整代码联系博主，微信 847064370，提供源码和远程部署   <br/>
-代码暂延缓开源，现在需要的直接联系博主。
+代码暂延缓开源，现在需要的直接联系博主。<br/>
+最新消息，2021年03月10日，已经新增了小程序版本，预览信息 链接:https://pan.baidu.com/s/1-hWXbZj2DZStGMpleJIsWA  密码:zyy3
 
 ## 项目说明
 - 该项目有3个版本
