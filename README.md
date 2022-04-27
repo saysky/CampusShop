@@ -1,3 +1,7 @@
+## 博主开发的其他商城项目全部在这里
+**[https://liuyanzhao.com/shop.html?k=商城](https://liuyanzhao.com/shop.html?k=商城)**  
+- -------------------------------------------------------------------------------
+感谢支持正版项目的朋友
 基于SpringBoot的校园商城，B2C商城 <br/>
 预览地址：[http://campusshop.liuyanzhao.com](http://campusshop.liuyanzhao.com)  <br/>
 介绍地址：[https://liuyanzhao.com/shop/CampusShop.html](https://liuyanzhao.com/shop/CampusShop.html)  <br/>
